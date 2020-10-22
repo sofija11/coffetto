@@ -1,0 +1,50 @@
+/*
+	Overflow 1.1 by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	 p,
+	li,
+	a {
+		font-size:80%;
+	}
+	p a {
+		font-size:100%;
+	}
+	a.link {
+		color:#fff;
+		font-weight: bold; 
+	}
+	li {
+		list-style: circle;
+		margin:0 0 10px 18px;
+	}
+	h2 {
+		font-size: 20px;
+    letter-spacing: 8px;
+    line-height: 31px;
+    margin:15px 0 30px;
+	}
+	body,input,textarea,select
+	{
+		font-size: 16pt;
+	}
+	#banner .container  {
+		max-width: 630px;
+
+	}
+	#intro2 header p,
+	#intro2 header h2 {
+		max-width:750px;
+		text-align: left;
+
+	}
+
+	#intro2 header h2{ 
+		text-align: center;
+	}

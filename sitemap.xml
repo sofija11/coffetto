@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://coffetto17117.000webhostapp.com/index.php</loc>
+		<lastmood>2019-15-06</lastmood>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+    <url>
+		<loc>http://coffetto17117.000webhostapp.com/index.php?page=menu</loc>
+		<lastmood>2019-15-06</lastmood>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://coffetto17117.000webhostapp.com/index.php?page=blog</loc>
+		<lastmood>2019-15-06</lastmood>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	
+	</urlset>
